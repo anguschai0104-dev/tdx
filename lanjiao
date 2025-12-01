@@ -1,4 +1,3 @@
-
 place(183, "Shotgunner", Vector3.new(-6.936,0.051,-46.728), 0, 850)
 place(186, "Shotgunner", Vector3.new(-3.870,0.051,-46.527), 0, 557)
 upgrade(2, 1, 1, 264)
